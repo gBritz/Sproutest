@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sproutest", "Sproutest\Sproutest.csproj", "{FE92F40B-218E-4C88-8A30-730357E92A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sproutest.EF", "Sproutest.EF\Sproutest.EF.csproj", "{B592EAAC-3B35-45E7-A957-011FEC369531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE92F40B-218E-4C88-8A30-730357E92A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE92F40B-218E-4C88-8A30-730357E92A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE92F40B-218E-4C88-8A30-730357E92A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE92F40B-218E-4C88-8A30-730357E92A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B592EAAC-3B35-45E7-A957-011FEC369531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B592EAAC-3B35-45E7-A957-011FEC369531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B592EAAC-3B35-45E7-A957-011FEC369531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B592EAAC-3B35-45E7-A957-011FEC369531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
